@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="deporte" size="1.000000 0.670000" />
+    <ImageTarget name="LogoUnivalle1" size="1.000000 0.204741" />
+    <ImageTarget name="iconoPath" size="1.000000 0.430285" />
+    <ImageTarget name="Iconroute" size="1.000000 0.896104" />
+    <ImageTarget name="TargetMonopoly" size="1.000000 0.396112" />
+    <ImageTarget name="LogoBiblioteca" size="1.000000 1.000000" />
+    <ImageTarget name="LogoUnivalle" size="1.000000 1.419786" />
+  </Tracking>
+</QCARConfig>

@@ -1,0 +1,87 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\jasse\\My project\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\launcher\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\jasse\\My project\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\launcher\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2,-1",
+                        "startColumns": "2,-1",
+                        "startOffsets": "55,-1",
+                        "endColumns": "42,-1",
+                        "endOffsets": "95,-1"
+                    },
+                    "to": {
+                        "startLines": "8,9",
+                        "startColumns": "4,4",
+                        "startOffsets": "547,592",
+                        "endColumns": "44,67",
+                        "endOffsets": "587,655"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\jasse\\.gradle\\caches\\transforms-2\\files-2.1\\5a525a9c2962ea0a76060bb6060ff708\\VuforiaEngine\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "660",
+                        "endColumns": "79",
+                        "endOffsets": "735"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\jasse\\My project\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\launcher\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1",
+                        "startColumns": "-1,-1,-1",
+                        "startOffsets": "-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "11,13,16",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "740,840,978",
+                        "endLines": "12,15,19",
+                        "endColumns": "8,8,8",
+                        "endOffsets": "835,973,1200"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\jasse\\.gradle\\caches\\transforms-2\\files-2.1\\ae4e63aee2448ed4859dc95da47269f5\\arcore_client\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "101,152,207,333,459",
+                        "endColumns": "50,54,125,125,87",
+                        "endOffsets": "147,202,328,454,542"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\jasse\\My project\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\launcher\\src\\main\\res\\values\\ids.xml",
+                    "from": {
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "45",
+                        "endOffsets": "96"
+                    }
+                }
+            ]
+        }
+    ]
+}
